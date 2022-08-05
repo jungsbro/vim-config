@@ -41,10 +41,6 @@ sudo apt install -y vim-gtk git ctags xclip xsel
 
 2. Clone vim-config
 ```bash
-mkdir ~/github/;
-```
-
-```bash
 git clone https://github.com/jungsbro/vim-config.git ~/github/vim-config
 ```
 <br>
