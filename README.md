@@ -34,7 +34,11 @@ xclip, xsel             # vim에서 선택한 text 클립보드로 복사
 ```
 
 ```bash
-sudo apt install -y vim-gtk git ctags xclip xsel
+sudo apt update;
+sudo apt install -y vim-gtk git xclip xsel;
+```
+```bash
+sudo apt install -y ctags;
 ```
 <br>
 
